@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  height: 100%;
+  background-image: url("app/img/orange-book.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  color: #14213d !important;
+}
+.bg-primary,
+.btn-primary {
+  background-color: #14213d !important;
+  border-color: #14213d !important;
+}
